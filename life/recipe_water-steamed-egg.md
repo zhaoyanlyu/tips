@@ -1,4 +1,4 @@
-# Recipe for Water-boiled egg
+# Recipe for Water-steamed egg
 Presents:
 
 <img src="./img_recipe_water-steamed-egg/IMG_0732.JPEG" width="40%">.
