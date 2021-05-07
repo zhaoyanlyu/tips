@@ -40,10 +40,11 @@ Install the cap. Connect the scissor structures first. The lower side of the sci
 Finally, use thin hard metal sticks to adjust the position of balance lever sticks through the gap of the cap and the base. Then, press the cap to click the buckles and connect the balance lever sticks and the cap.
 
 ### 4. Some pictures.
+When open up, one of the balance lever sticks is loose, and one of the scissor structure is loose from the base.
 
-![When open up, one of the balance lever sticks is loose, and one of the scissor structure is loose from the base.](IT/blogs/img_fix_LogitechK380.md/9be5cbca02cb569db3b94095ee0338f.jpg)
+![](IT/blogs/img_fix_LogitechK380/9be5cbca02cb569db3b94095ee0338f.jpg)
 
 
-![](IT/blogs/img_fix_LogitechK380.md/543170b679dfce3447ab87ce09c90fe.jpg)
+![](IT/blogs/img_fix_LogitechK380/543170b679dfce3447ab87ce09c90fe.jpg)
 
-![](IT/blogs/img_fix_LogitechK380.md/b5b97ae98ff95ad2c44e97b25e826c0.jpg)
+![](IT/blogs/img_fix_LogitechK380/b5b97ae98ff95ad2c44e97b25e826c0.jpg)
